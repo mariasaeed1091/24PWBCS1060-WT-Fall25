@@ -1,0 +1,2 @@
+# lab 01 Reflection
+i am Maria Saeed. In this lab, i learned about Git and Github and practiced adding , deleting, branching, and merging branches. i also learned about connecting local repo and remote repository. 
