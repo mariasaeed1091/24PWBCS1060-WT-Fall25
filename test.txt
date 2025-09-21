@@ -1,2 +1,0 @@
-# lab 01 Reflection
-in this lab, I learned about git and github. I practiced creating, deleting ,merging and branching.  
